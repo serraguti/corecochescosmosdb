@@ -1,0 +1,12 @@
+﻿<h1>Cosmos Db Coches</h1>
+
+<a asp-action="ListCoches" asp-controller="Cosmos">
+    List Coches
+</a>
+<form method="post">
+    <button type="submit" name="accion" value="iniciar"
+            class="btn btn-info">
+        Iniciar acciones CosmosDb
+    </button>
+</form>
+<h1 style="color:blue">@ViewData["MENSAJE"]</h1>

@@ -110,3 +110,9 @@ C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\CoreCochesCosmosDb\C
 C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\CoreCochesCosmosDb\CoreCochesCosmosDb\obj\Debug\netcoreapp3.1\CoreCochesCosmosDb.dll
 C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\CoreCochesCosmosDb\CoreCochesCosmosDb\obj\Debug\netcoreapp3.1\CoreCochesCosmosDb.pdb
 C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\CoreCochesCosmosDb\CoreCochesCosmosDb\obj\Debug\netcoreapp3.1\CoreCochesCosmosDb.genruntimeconfig.cache
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\CoreCochesCosmosDb\CoreCochesCosmosDb\obj\Debug\netcoreapp3.1\Razor\Views\Cosmos\ListCoches.cshtml.g.cs
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\CoreCochesCosmosDb\CoreCochesCosmosDb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\CoreCochesCosmosDb\CoreCochesCosmosDb\obj\Debug\netcoreapp3.1\Razor\Views\Cosmos\Details.cshtml.g.cs
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\CoreCochesCosmosDb\CoreCochesCosmosDb\obj\Debug\netcoreapp3.1\Razor\Views\Cosmos\Create.cshtml.g.cs
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\CoreCochesCosmosDb\CoreCochesCosmosDb\obj\Debug\netcoreapp3.1\Razor\Views\Cosmos\Edit.cshtml.g.cs
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\CoreCochesCosmosDb\CoreCochesCosmosDb\obj\Debug\netcoreapp3.1\Razor\Views\Cosmos\Index.cshtml.g.cs
